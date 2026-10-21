@@ -49,6 +49,13 @@ Submitted Modification:
     may use it independently, provided such code
     functionally works without the ILL Files.
 
+Note on the grant in section 2: it is intentionally broader
+than a typical DCO sign-off - it is irrevocable, includes
+the right to sublicense and to commercially license your
+contribution, and it survives your withdrawal from the
+project. Do not give the consent mark if you do not accept
+this.
+
 ================================================================
 3. HOW TO SUBMIT (CONSENT MARK)
 ================================================================
@@ -108,3 +115,13 @@ License.
   completeness) run on every pull request.
 
 Questions: the contact stated in the AUTHORS file.
+
+================================================================
+6. UNCONFIRMED CONTRIBUTIONS (ILL Section 1.8)
+================================================================
+
+A contribution merged without a consent mark is not an
+ILL File and is not licensed under ILL until its chain
+entry is confirmed. Maintainers must mark such entries
+"unconfirmed" and must not include such code in a
+release Distribution until confirmed.
